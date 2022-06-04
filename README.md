@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JOAOVITORNEVES
-- 👀 I’m interested in Java Development,CyberSecurity
+- 👀 I’m interested in Java Development,Web Development
 - 🌱 I’m currently learning Java and Spring 
 - 📫 How to reach me: E-mail: jvitornevessilva@gmail.com
 
